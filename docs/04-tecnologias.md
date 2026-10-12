@@ -18,7 +18,7 @@
 
 | Funcionalidad | Estado en esta versión |
 |---|---|
-|| Navegación entre inicio, servicios y blog | Funcional |
+| Navegación entre inicio, servicios y blog | Funcional |
 | Ver detalle de un servicio (scanner, embrague, mecánica ligera) con duración y garantía | Funcional |
 | Consultar por WhatsApp con mensaje prellenado ("Hola, quiero cotizar un cambio de embrague") | Funcional (enlace a wa.me) |
 | Compartir un artículo (por ejemplo, "qué significa la luz check engine") | Funcional (enlaces para compartir) |
@@ -34,7 +34,7 @@
 | Seguimiento del estado del auto en el taller | Prototipo visual |
 ## Integraciones para una versión real
 
--Agenda de horas: Calendly, Cal.com o Google Calendar, para que Felipe reserve sin llamar.
+- Agenda de horas: Calendly, Cal.com o Google Calendar, para que Felipe reserve sin llamar.
 - Cotización: Formspree o Netlify Forms para recibir marca, modelo y WhatsApp del cliente en el correo del taller.
 - Precio estimado: JavaScript con una tabla de precios por servicio, marca, modelo y año.
 - Presupuesto y seguimiento: WhatsApp Business API para enviar el presupuesto por escrito y avisar cuando el auto esté listo para retirar.
