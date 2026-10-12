@@ -19,5 +19,6 @@ Ayudamos a conductores y dueños de vehiculos a resolver fallas mecánicas y man
 
 | Marca | Qué hace bien |
 |---|---|
-| Budnik | Muestra fichas técnicas muy detalladas, formatos de productos y la resistencia específica según el tipo de uso (tráfico alto, interior o exterior). |
-| Baldosas Córdoba | Presenta de forma clara sus proyectos terminados e inspira confianza al mostrar el acabado final del trabajo de instalación y pulido tradicional. |
+| Rocky´s Garage | Transmite confianza técnica: muestra el diagnóstico con scanner, explica qué falla se encontró y respalda el trabajo con garantía y repuestos de calidad. |
+| Mecanica ligera | Presenta de forma clara sus servicios y precios (frenos, suspensión, mantención), lo que facilita que el cliente sepa qué esperar antes de llegar al taller. |
+| [Rocky´s Garage] | Muestra el antes y el después de cada trabajo (cambio de embrague, diagnóstico con scanner, mantención ligera), explica la falla en lenguaje simple y entrega un presupuesto transparente antes de intervenir el vehículo. |
