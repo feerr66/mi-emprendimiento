@@ -1,4 +1,4 @@
-# Color y tipografía — [Nombre del emprendimiento]
+# Color y tipografía — [Rocky's Garage]
 
 > Guía: [Color y tipografía](../evaluacion/guias/fase-2-specs/05-color-y-tipografia.md)
 
