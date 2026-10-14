@@ -2,7 +2,7 @@
 
 > Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
 
-**Tablero en Whimsical:** [https://whimsical.com/rocky-s-garage/FkgFvq2NKR83K4qmNxdWVt]
+**Tablero en Whimsical:** [https://whimsical.com/rocky-s-garage/E5piis7vAyGkH3htSjKHig]
 
 ![Moodboard de Rocky's Garage](img/moodboard.png)
 
