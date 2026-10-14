@@ -31,7 +31,7 @@ Incluye landing, blog y prototipo de tienda online.
 
 ## Prototipo
 
-[Aquí va el link de tu proyecto de Stitch en la Fase 3]
+- [Proyecto en Google Stitch](https://stitch.withgoogle.com/projects/1726645708207365365)
 
 ## Uso de IA
 
