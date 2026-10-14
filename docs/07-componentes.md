@@ -2,7 +2,7 @@
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 
-**Tablero en Whimsical:** [[pega aquí el link](https://whimsical.com/rocky-s-garage/FkgFvq2NKR83K4qmNxdWVt)]
+**Tablero en Whimsical:** [(https://whimsical.com/rocky-s-garage/E5piis7vAyGkH3htSjKHig)]
 
 <!-- Mínimo 6 componentes que cubran landing, blog y tienda. -->
 

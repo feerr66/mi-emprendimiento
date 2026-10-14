@@ -12,7 +12,7 @@
 | Diseño | Whimsical | Armar el moodboard del taller y los wireframes de la reserva de hora y de la ficha de servicio |
 | Diseño | Google Stitch | Generar el prototipo en alta fidelidad a partir de las funcionalidades y de la proto-persona Felipe |
 | IA | Claude | Definir la proto-persona, redactar las funcionalidades y revisar mis documentos |
-| Editor | [tu editor] | Escribir el código del sitio |
+| Editor | Antigravity | Escribir el código con ayuda de IA |
 
 ## Qué es funcional y qué es prototipo
 
